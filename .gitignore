@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # for streamlit
-secrets.toml
+.streamlit/secrets.toml
