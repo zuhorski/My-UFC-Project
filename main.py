@@ -2,7 +2,7 @@ import streamlit as st
 import psycopg2
 import pandas as pd
 import numpy as np
-from matplotlib import pyplot as plt
+
 
 st.title("UFC Project")
 
